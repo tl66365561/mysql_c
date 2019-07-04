@@ -1,0 +1,21 @@
+
+配置文件和代码文件
+
+
+cgi：通用网关接口 
+
+阿帕奇服务器 ：基于http
+y
+-std=c99
+
+sql注入为什么加上 单引号就
+
+直接在本地git都需要什么文件?
+
+服务器的静态文件 和CGI文件 和  shell脚本
+
+Unicode  unencode  encode
+
+shell脚本
+
+utf-8字符集下  汉字的转换规则 代码
